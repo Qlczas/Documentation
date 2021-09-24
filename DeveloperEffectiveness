@@ -1,0 +1,37 @@
+Problem statement: How do you think developer productivity/happiness/effectiveness is related to quality? 
+Provide examples of changes to developer effectiveness and how that did, or might have, improved or decreased "quality".
+
+My answer:
+
+This is, of course, a very large subject and I will try to break it down into smaller parts to give more insightful answer.
+I think developer productivity is based mostly on their experience and also on their overall satisfaction and dedication to the project. 
+I assume that good relationships within the development team, trust in the employer, and the belief that their work is "important" are the factors 
+that positively improve developer happiness and through this, it will improve their productivity. Ideas like: pair programming, doing code reviews of 
+their code, joining training sessions or doing some technical courses would help to improve their overall experience in development and therefore 
+their productivity. 
+Happiness could be increased by following good collaboration practices and improving relationships within teams. Developers not only 
+collaborate with other developers but also with QA engineers, Product Owners, sometimes with stakeholders or people from different teams too. Having a good soft 
+skills is also a requirement to make the life of a developer "easier" and improve their happiness. Soft skill trainings, retrospectives with the teams 
+(which would result in improvements for the whole team), giving feedback about their work in professional manner, rewarding their achievements 
+(not only financialy, but also with some company events, praising by managers, sending them to some trainings etc.) - those are few ideas on how to 
+improve happiness. Going to trainings, company meetings or holidays - those are also important to maintain a good work/life balance which is also 
+a factor that affects developer happiness.
+To summarize, the more productive and "happy engineer", who collaborates better with the team and stakeholders will provide better overall quality 
+to theproject.
+
+Developer effectivenes I would understand as something like "clean code" (that is easy for others to understand) and a bug rate (how many 
+defects are being found while testing their code). The "effectivnes" of the developer would be based on the two factors I have described above: 
+productivity and happiness taken together, and it would be reflected as the "quality" of their work. Meaning, that the more "effective" developer 
+would provide increased quality to the whole dev team. We can measure developer effectivenes via different methods, for example: number of commits, 
+average commit size, time needed to review their code, number of code reviews needed and/or frequency of those. 
+
+Having the "right" ammount spent on code reviews is in my opinion important. Because some od the developers (same as everone else I believe) 
+do not like being "criticized" and code reviews of their work could sometimes be perceived as such. Doing pair reviews (where developer presents his 
+code to others), or even doing pair programming in the first place would be a better idea instead of just asking for a review after the feature branch 
+code is ready for review. We have to keep in mind that people are different and might prefer different methods. Doing too many reviews and pointing
+out "problems" in the code, can be problematic if would be done in improper way which could "offend" the author and in the end it would decrease the 
+"happiness" and thus the "quality" of their work. I have even experienced situation, where developers would not ask certain people for code
+reviews (even tough the person has a lot of experience) because he would rather just merge his code and get approval from someone else. 
+
+In the end, the ongoing process of developing and improving both technical and people skills is the most important factor in increasing the effectiveness 
+and from this, increasing the "quality" of the developers work. Good relationships within a team, and especially good relationships with a QA are also important factors. 
