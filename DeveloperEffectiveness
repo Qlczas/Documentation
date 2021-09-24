@@ -10,14 +10,13 @@ that positively improve developer happiness and through this, it will improve th
 their code, joining training sessions or doing some technical courses would help to improve their overall experience in development and therefore 
 their productivity. 
 Happiness could be increased by following good collaboration practices and improving relationships within teams. Developers not only 
-collaborate with other developers but also with QA engineers, Product Owners, sometimes with stakeholders or people from different teams too. Having a good soft 
-skills is also a requirement to make the life of a developer "easier" and improve their happiness. Soft skill trainings, retrospectives with the teams 
-(which would result in improvements for the whole team), giving feedback about their work in professional manner, rewarding their achievements 
-(not only financialy, but also with some company events, praising by managers, sending them to some trainings etc.) - those are few ideas on how to 
-improve happiness. Going to trainings, company meetings or holidays - those are also important to maintain a good work/life balance which is also 
-a factor that affects developer happiness.
-To summarize, the more productive and "happy engineer", who collaborates better with the team and stakeholders will provide better overall quality 
-to theproject.
+collaborate with other developers but also with QA engineers, Product Owners, sometimes with stakeholders or people from different teams too.
+Having a good soft skills is also a requirement to make the life of a developer "easier" and improve their happiness. Soft skill trainings, 
+retrospectives with the teams (which would result in improvements for the whole team), giving feedback about their work in professional manner,
+rewarding their achievements (not only financialy, but also with some company events, praising by managers, sending them to some trainings etc.) 
+- those are few ideas on how to improve happiness. Going to trainings, company meetings or holidays - those are also important to maintain a good 
+work/life balance which is also  a factor that affects developer happiness. To summarize, the more productive and "happy engineer", who 
+collaborates better with the team and stakeholders will provide better overall quality to theproject.
 
 Developer effectivenes I would understand as something like "clean code" (that is easy for others to understand) and a bug rate (how many 
 defects are being found while testing their code). The "effectivnes" of the developer would be based on the two factors I have described above: 
@@ -33,5 +32,6 @@ out "problems" in the code, can be problematic if would be done in improper way 
 "happiness" and thus the "quality" of their work. I have even experienced situation, where developers would not ask certain people for code
 reviews (even tough the person has a lot of experience) because he would rather just merge his code and get approval from someone else. 
 
-In the end, the ongoing process of developing and improving both technical and people skills is the most important factor in increasing the effectiveness 
-and from this, increasing the "quality" of the developers work. Good relationships within a team, and especially good relationships with a QA are also important factors. 
+In the end, the ongoing process of developing and improving both technical and people skills is the most important factor in increasing the 
+effectiveness and from this, increasing the "quality" of the developers work. Good relationships within a team, and especially good relationships
+with a QA are also important factors. 
